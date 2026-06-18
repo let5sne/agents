@@ -1,0 +1,4 @@
+interface:
+  display_name: "SeeAI Image"
+  short_description: "Generate images through the SeeAI API"
+  default_prompt: "Use $seeai-image to generate a PNG from this prompt: 一只橘猫戴着橙色围巾。"
