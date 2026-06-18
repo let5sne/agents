@@ -4,6 +4,20 @@
 
 SeeAI image generation Skill. It reads `GEN_IMAGE_API_KEY` from the environment or a local `.env` file and writes decoded PNG files to disk.
 
+### One-line LLM install prompts
+
+Codex:
+
+```text
+Install the seeai-image Skill from https://github.com/let5sne/agents by copying only skills/seeai-image into ~/.codex/skills/seeai-image, or %USERPROFILE%\.codex\skills\seeai-image on Windows.
+```
+
+Claude Code:
+
+```text
+Install the seeai-image Skill from https://github.com/let5sne/agents by copying only skills/seeai-image into ~/.claude/skills/seeai-image, or %USERPROFILE%\.claude\skills\seeai-image on Windows.
+```
+
 ### Install for Codex
 
 macOS/Linux:
